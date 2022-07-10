@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Try It</string>
+    <string name="most_visited">Most Visited</string>
+    <string name="show_all">Show aLl</string>
+    <string name="airline">Airline</string>
+    <string name="railway">Railway</string>
+    <string name="buffet">Buffet</string>
+    <string name="stay">Stay</string>
+    <string name="london">London</string>
+</resources>
