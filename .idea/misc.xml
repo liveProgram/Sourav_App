@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/drawable/ic_baseline_hotel_24.xml" value="0.174" />
-        <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/activity_user.xml" value="0.1465811965811966" />
         <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/auto_sliding_part.xml" value="0.17864583333333334" />
         <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/dashpard_part2.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/fragment_login.xml" value="0.1465811965811966" />
+        <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/fragment_registration.xml" value="0.1465811965811966" />
         <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/layout/places_recycler_ui.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/SouravApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14423885618166526" />
       </map>
     </option>
   </component>
