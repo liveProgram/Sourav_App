@@ -8,13 +8,18 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.company.souravapp.databinding.ActivityUserBinding
+import com.company.souravapp.model.Todos
 
 class UserActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityUserBinding
 
+    private lateinit var receiveTodos: Todos
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        receiveTodos = intent.getSerializableExtra("todos") as Todos
 
         binding = ActivityUserBinding.inflate(layoutInflater)
         setContentView(binding.root)
